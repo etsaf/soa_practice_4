@@ -42,8 +42,8 @@ curl --location --request POST 'http://localhost:5001//profiles/api/v1.0/users/m
 
 Ответ на этот запрос возвращает URL, где можно получить pdf. Пример ответа со ссылкой:
 {"pdf":"http://localhost:5001/profiles/api/v1.0/users/pdf/1"}
-Файл скачается при открытии браузере ссылки http://localhost:5001/profiles/api/v1.0/users/pdf/1. Пример файла - example.pdf.
 ```
+В приведенном примере файл скачается при открытии в браузере ссылки http://localhost:5001/profiles/api/v1.0/users/pdf/1. Пример полученного файла - example.pdf.
 
 ### Комментарий
 
