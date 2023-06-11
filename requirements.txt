@@ -1,0 +1,4 @@
+Flask>=0.12.2
+requests==2.14.2
+fpdf==1.7.2
+Pillow==9.5.0
